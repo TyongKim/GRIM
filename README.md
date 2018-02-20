@@ -1,1 +1,1 @@
-# GRIM2
+Download GRIM_CODE files
